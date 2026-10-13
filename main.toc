@@ -1,0 +1,18 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{Statement about AI}{II}{Doc-Start}%
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}UX and the Environment}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Defaults and Streaming Quality}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}UX Pattern Decisions}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}AI as a Trend}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Ethical Analysis}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Climate Justice}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Autonomy}{7}{subsection.3.2}%
+\contentsline {section}{\numberline {4}The Designers' Dilemma}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Professional Pressure}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Interactive Exercise}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Possible Objections}{10}{subsection.4.3}%
+\contentsline {section}{\numberline {5}What Should Be Done?}{11}{section.5}%
+\contentsline {section}{\numberline {6}Conclusion}{12}{section.6}%
+\contentsline {section}{\nonumberline References}{V}{section*.1}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

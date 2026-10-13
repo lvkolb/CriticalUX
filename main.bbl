@@ -1,0 +1,1311 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{ALCOTT20059}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=5e17ee1dbc10e2e17d2f6f9e1b677da3}{%
+           family={Alcott},
+           familyi={A\bibinitperiod},
+           given={Blake},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{5e17ee1dbc10e2e17d2f6f9e1b677da3}
+      \strng{fullhash}{5e17ee1dbc10e2e17d2f6f9e1b677da3}
+      \strng{fullhashraw}{5e17ee1dbc10e2e17d2f6f9e1b677da3}
+      \strng{bibnamehash}{5e17ee1dbc10e2e17d2f6f9e1b677da3}
+      \strng{authorbibnamehash}{5e17ee1dbc10e2e17d2f6f9e1b677da3}
+      \strng{authornamehash}{5e17ee1dbc10e2e17d2f6f9e1b677da3}
+      \strng{authorfullhash}{5e17ee1dbc10e2e17d2f6f9e1b677da3}
+      \strng{authorfullhashraw}{5e17ee1dbc10e2e17d2f6f9e1b677da3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In The Coal Question William Stanley Jevons [Jevons, W.S., 1865/1965. The Coal Question: an Inquiry Concerning the Progress of the Nation, and the Probable Exhaustion of our Coal-mines. 3rd edition 1905, Ed. A.W. Flux. Augustus M. Kelley, New York.] maintained that technological efficiency gains—specifically the more “economical” use of coal in engines doing mechanical work—actually increased the overall consumption of coal, iron, and other resources, rather than “saving” them, as many claimed. Twentieth-century economic growth theory also sees technological change as the main cause of increased production and consumption. In contrast, some ecologically-oriented economists and practically all governments, green political parties and NGOs believe that efficiency gains lower consumption and negative environmental impact. Others doubt this ‘efficiency strategy’ towards sustainability, holding that efficiency gains ‘rebound’ or even ‘backfire’ in pursuing this goal, causing higher production and consumption. Because many environmental problems demand rapid and clear policy recommendations, this issue deserves high priority in ecological economics. If Jevons is right, efficiency policies are counter-productive, and business-as-usual efficiency gains must be compensated for with physical caps like quotas or rationing.}
+      \field{issn}{0921-8009}
+      \field{journaltitle}{Ecological Economics}
+      \field{number}{1}
+      \field{title}{Jevons' paradox}
+      \field{volume}{54}
+      \field{year}{2005}
+      \field{pages}{9\bibrangedash 21}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ecolecon.2005.03.020
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0921800905001084
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0921800905001084
+      \endverb
+      \keyw{Technological efficiency,Rebound,Impact,Consumption,Growth,Jevons}
+    \endentry
+    \entry{Andreasson2024Autoplay}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{hash=27377147394a3933180c40f6d8a82f25}{%
+           family={Andreasson},
+           familyi={A\bibinitperiod},
+           given={Mimmi},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {KTH Royal Institute of Technology}%
+      }
+      \list{location}{1}{%
+        {Stockholm, Sweden}%
+      }
+      \strng{namehash}{27377147394a3933180c40f6d8a82f25}
+      \strng{fullhash}{27377147394a3933180c40f6d8a82f25}
+      \strng{fullhashraw}{27377147394a3933180c40f6d8a82f25}
+      \strng{bibnamehash}{27377147394a3933180c40f6d8a82f25}
+      \strng{authorbibnamehash}{27377147394a3933180c40f6d8a82f25}
+      \strng{authornamehash}{27377147394a3933180c40f6d8a82f25}
+      \strng{authorfullhash}{27377147394a3933180c40f6d8a82f25}
+      \strng{authorfullhashraw}{27377147394a3933180c40f6d8a82f25}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Exploring the Environmental Impact of Autoplayed Preview Videos on Streaming Platforms}
+      \field{type}{mathesis}
+      \field{year}{2024}
+    \endentry
+    \entry{sep-personal-autonomy}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{hash=55854840dd9cc4d9fb4b3c8cc489a298}{%
+           family={Buss},
+           familyi={B\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=edb34717bfdaf532eb5fc304566f6ade}{%
+           family={Westlund},
+           familyi={W\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5ff1c29ff1cc8f6336533b0ffd842a79}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{b3dde29415eacd21e9eaaac174fb85fe}
+      \strng{fullhash}{b3dde29415eacd21e9eaaac174fb85fe}
+      \strng{fullhashraw}{b3dde29415eacd21e9eaaac174fb85fe}
+      \strng{bibnamehash}{b3dde29415eacd21e9eaaac174fb85fe}
+      \strng{authorbibnamehash}{b3dde29415eacd21e9eaaac174fb85fe}
+      \strng{authornamehash}{b3dde29415eacd21e9eaaac174fb85fe}
+      \strng{authorfullhash}{b3dde29415eacd21e9eaaac174fb85fe}
+      \strng{authorfullhashraw}{b3dde29415eacd21e9eaaac174fb85fe}
+      \strng{editorbibnamehash}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \strng{editornamehash}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \strng{editorfullhash}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \strng{editorfullhashraw}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
+      \field{edition}{{S}pring 2018}
+      \field{howpublished}{\url{https://plato.stanford.edu/archives/spr2018/entries/personal-autonomy/}}
+      \field{title}{{Personal Autonomy}}
+      \field{year}{2018}
+    \endentry
+    \entry{CALABRETTA2025145340}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=2881938ac64ad2b7ec0245e6b85ac8c9}{%
+           family={Calabretta},
+           familyi={C\bibinitperiod},
+           given={Giulia},
+           giveni={G\bibinitperiod}}}%
+        {{hash=09f2215641da2f880d5c04b7765acc5a}{%
+           family={Döver},
+           familyi={D\bibinitperiod},
+           given={Ömer},
+           giveni={Ö\bibinitperiod}}}%
+        {{hash=9eaad97b499c739b834102f5386c07d6}{%
+           family={Nikou},
+           familyi={N\bibinitperiod},
+           given={Shahrokh},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb172e66a84794a69f6f9a1d4d22ebdf}
+      \strng{fullhash}{fb172e66a84794a69f6f9a1d4d22ebdf}
+      \strng{fullhashraw}{fb172e66a84794a69f6f9a1d4d22ebdf}
+      \strng{bibnamehash}{fb172e66a84794a69f6f9a1d4d22ebdf}
+      \strng{authorbibnamehash}{fb172e66a84794a69f6f9a1d4d22ebdf}
+      \strng{authornamehash}{fb172e66a84794a69f6f9a1d4d22ebdf}
+      \strng{authorfullhash}{fb172e66a84794a69f6f9a1d4d22ebdf}
+      \strng{authorfullhashraw}{fb172e66a84794a69f6f9a1d4d22ebdf}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This research investigates how professional designers engage with sustainability in their practices, focusing on the early ideation phase. A comprehensive literature review identified gaps in existing tools and methods, highlighting a lack of practical guidance for addressing sustainability within organisational and societal contexts. Semi-structured interviews with design practitioners provided insights into the challenges designers face, including conflicting stakeholder priorities, greenwashing, and the need for alignment across diverse perspectives. A co-creation session further refined these insights, leading to the development of the Tactical Sustainability Cards—a tool designed to inspire sustainable thinking, guide decision-making, and foster collaboration. The Tactical Sustainability Cards were validated through expert feedback and iterative refinement, emphasising their utility in overcoming limitations of existing Design for Sustainability (DfS) tools, such as complexity and narrow focus. By providing actionable prompts and a shared language, the cards empower designers to navigate sustainability challenges, align stakeholders, and justify sustainable initiatives effectively. This research contributes to bridging the gap between sustainability theory and practice by offering a practical tool that integrates sustainability into design processes. The findings lay a foundation for future work exploring the broader applicability of the cards and elaborate on the potential for design to harmonise innovation and sustainability, addressing the environmental and societal challenges.}
+      \field{issn}{0959-6526}
+      \field{journaltitle}{Journal of Cleaner Production}
+      \field{title}{Navigating sustainability challenges in design: Bridging theory and practice with tactical sustainability cards}
+      \field{volume}{502}
+      \field{year}{2025}
+      \field{pages}{145340}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jclepro.2025.145340
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0959652625006900
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0959652625006900
+      \endverb
+      \keyw{Design of sustainability,Strategic design,Sustainability,Tactical sustainability cards}
+    \endentry
+    \entry{sep-justice-climate}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=fff9a472b8235e6ffe4b079b0f28d5d7}{%
+           family={Caney},
+           familyi={C\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5ff1c29ff1cc8f6336533b0ffd842a79}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{fff9a472b8235e6ffe4b079b0f28d5d7}
+      \strng{fullhash}{fff9a472b8235e6ffe4b079b0f28d5d7}
+      \strng{fullhashraw}{fff9a472b8235e6ffe4b079b0f28d5d7}
+      \strng{bibnamehash}{fff9a472b8235e6ffe4b079b0f28d5d7}
+      \strng{authorbibnamehash}{fff9a472b8235e6ffe4b079b0f28d5d7}
+      \strng{authornamehash}{fff9a472b8235e6ffe4b079b0f28d5d7}
+      \strng{authorfullhash}{fff9a472b8235e6ffe4b079b0f28d5d7}
+      \strng{authorfullhashraw}{fff9a472b8235e6ffe4b079b0f28d5d7}
+      \strng{editorbibnamehash}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \strng{editornamehash}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \strng{editorfullhash}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \strng{editorfullhashraw}{5ff1c29ff1cc8f6336533b0ffd842a79}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The {Stanford} Encyclopedia of Philosophy}
+      \field{edition}{{W}inter 2021}
+      \field{howpublished}{\url{https://plato.stanford.edu/archives/win2021/entries/justice-climate/}}
+      \field{title}{{Climate Justice}}
+      \field{year}{2021}
+    \endentry
+    \entry{CarbonTrust2021Streaming}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=525c58b17371c3b01108b0705fdf5cc0}{%
+           family={{Carbon Trust}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {The Carbon Trust}%
+      }
+      \strng{namehash}{525c58b17371c3b01108b0705fdf5cc0}
+      \strng{fullhash}{525c58b17371c3b01108b0705fdf5cc0}
+      \strng{fullhashraw}{525c58b17371c3b01108b0705fdf5cc0}
+      \strng{bibnamehash}{525c58b17371c3b01108b0705fdf5cc0}
+      \strng{authorbibnamehash}{525c58b17371c3b01108b0705fdf5cc0}
+      \strng{authornamehash}{525c58b17371c3b01108b0705fdf5cc0}
+      \strng{authorfullhash}{525c58b17371c3b01108b0705fdf5cc0}
+      \strng{authorfullhashraw}{525c58b17371c3b01108b0705fdf5cc0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{note}{In collaboration with the University of Bristol and the DIMACT project.}
+      \field{title}{Carbon impact of video streaming}
+      \field{type}{White Paper}
+      \field{urlday}{25}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2021}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.carbontrust.com/our-work-and-impact/guides-reports-and-tools/carbon-impact-of-video-streaming
+      \endverb
+      \verb{url}
+      \verb https://www.carbontrust.com/our-work-and-impact/guides-reports-and-tools/carbon-impact-of-video-streaming
+      \endverb
+    \endentry
+    \entry{ColumbiaClimate2025Index}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=ca6fa2482f752eccafbcb32746410cdb}{%
+           family={{Columbia Climate School}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Columbia Climate School}%
+      }
+      \strng{namehash}{ca6fa2482f752eccafbcb32746410cdb}
+      \strng{fullhash}{ca6fa2482f752eccafbcb32746410cdb}
+      \strng{fullhashraw}{ca6fa2482f752eccafbcb32746410cdb}
+      \strng{bibnamehash}{ca6fa2482f752eccafbcb32746410cdb}
+      \strng{authorbibnamehash}{ca6fa2482f752eccafbcb32746410cdb}
+      \strng{authornamehash}{ca6fa2482f752eccafbcb32746410cdb}
+      \strng{authorfullhash}{ca6fa2482f752eccafbcb32746410cdb}
+      \strng{authorfullhashraw}{ca6fa2482f752eccafbcb32746410cdb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{note}{Discusses the Climate Finance (CliF) Vulnerability Index and its implications for global resource prioritization.}
+      \field{title}{Global Climate Risk Index Ranks 188 Countries by Vulnerability and Access to Finance}
+      \field{urlday}{25}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://news.climate.columbia.edu/2025/06/25/global-climate-risk-index-ranks-188-countries-by-vulnerability-and-access-to-finance/
+      \endverb
+      \verb{url}
+      \verb https://news.climate.columbia.edu/2025/06/25/global-climate-risk-index-ranks-188-countries-by-vulnerability-and-access-to-finance/
+      \endverb
+    \endentry
+    \entry{Crawford2021Atlas}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=04ddd15bdbd9d7c4572af614218b9b79}{%
+           family={Crawford},
+           familyi={C\bibinitperiod},
+           given={Kate},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Haven, CT}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{04ddd15bdbd9d7c4572af614218b9b79}
+      \strng{fullhash}{04ddd15bdbd9d7c4572af614218b9b79}
+      \strng{fullhashraw}{04ddd15bdbd9d7c4572af614218b9b79}
+      \strng{bibnamehash}{04ddd15bdbd9d7c4572af614218b9b79}
+      \strng{authorbibnamehash}{04ddd15bdbd9d7c4572af614218b9b79}
+      \strng{authornamehash}{04ddd15bdbd9d7c4572af614218b9b79}
+      \strng{authorfullhash}{04ddd15bdbd9d7c4572af614218b9b79}
+      \strng{authorfullhashraw}{04ddd15bdbd9d7c4572af614218b9b79}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780300209570}
+      \field{title}{Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence}
+      \field{year}{2021}
+    \endentry
+    \entry{google}{misc}{}{}
+      \name{author}{12}{}{%
+        {{hash=042d0710024f223d68d080145a7d0fef}{%
+           family={Elsworth},
+           familyi={E\bibinitperiod},
+           given={Cooper},
+           giveni={C\bibinitperiod}}}%
+        {{hash=82b7443ec7e2acd016c186c452aea2cf}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Keguo},
+           giveni={K\bibinitperiod}}}%
+        {{hash=64f58317379ddd1a24e0e6cba85ae78c}{%
+           family={Patterson},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=bde43245dc618727cc094c1d9ca4138d}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=abf1bd1c09f839569c437c36577e06fa}{%
+           family={Sedivy},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=5809d55afb6b3f2ac032e71863cf279e}{%
+           family={Goodman},
+           familyi={G\bibinitperiod},
+           given={Savannah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=23a9635df8fc806034281aabdcb30fc9}{%
+           family={Townsend},
+           familyi={T\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d86fc34f3ab2eed537ffd62d45ef9244}{%
+           family={Ranganathan},
+           familyi={R\bibinitperiod},
+           given={Parthasarathy},
+           giveni={P\bibinitperiod}}}%
+        {{hash=62f954323339abeba6c6a240e9d2855b}{%
+           family={Dean},
+           familyi={D\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8999178b72243773300917591e511e88}{%
+           family={Vahdat},
+           familyi={V\bibinitperiod},
+           given={Amin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8885c789fc27e0e304ff94d45125b780}{%
+           family={Gomes},
+           familyi={G\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e456d570ec236cee82b8cf83a29db39f}{%
+           family={Manyika},
+           familyi={M\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{9429b0f25ef7e5af87cf1256cc30e81e}
+      \strng{fullhash}{4914b4e60efa8f8b25bd9aec5561ba3b}
+      \strng{fullhashraw}{4914b4e60efa8f8b25bd9aec5561ba3b}
+      \strng{bibnamehash}{9429b0f25ef7e5af87cf1256cc30e81e}
+      \strng{authorbibnamehash}{9429b0f25ef7e5af87cf1256cc30e81e}
+      \strng{authornamehash}{9429b0f25ef7e5af87cf1256cc30e81e}
+      \strng{authorfullhash}{4914b4e60efa8f8b25bd9aec5561ba3b}
+      \strng{authorfullhashraw}{4914b4e60efa8f8b25bd9aec5561ba3b}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.AI}
+      \field{eprinttype}{arXiv}
+      \field{title}{Measuring the environmental impact of delivering AI at Google Scale}
+      \field{year}{2025}
+      \verb{eprint}
+      \verb 2508.15734
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2508.15734
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2508.15734
+      \endverb
+    \endentry
+    \entry{EUAIAct2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=d0baa957acb6522d22e3251a428fe067}{%
+           family={{European Parliament and Council of the European Union}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{fullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \strng{bibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorbibnamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authornamehash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhash}{d0baa957acb6522d22e3251a428fe067}
+      \strng{authorfullhashraw}{d0baa957acb6522d22e3251a428fe067}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{note}{OJ L, 2024/1689, 12.7.2024}
+      \field{shorttitle}{EU AI Act}
+      \field{title}{Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act)}
+      \field{urlday}{25}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689
+      \endverb
+    \endentry
+    \entry{Google2025EnvReport}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={{Google}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Google LLC}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhashraw}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhashraw}{8b36e9207c24c76e6719268e49201d94}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Google Environmental Report 2025}
+      \field{type}{Annual Environmental Report}
+      \field{urlday}{25}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.gstatic.com/gumdrop/sustainability/google-2025-environmental-report.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.gstatic.com/gumdrop/sustainability/google-2025-environmental-report.pdf
+      \endverb
+    \endentry
+    \entry{2018Report}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=85defdfb3a3c4a9b420d361bfef7e5ae}{%
+           family={Hinterholzer},
+           familyi={H\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a9e782d1d039365b8dc5e24636eedf4c}{%
+           family={Hintemann},
+           familyi={H\bibinitperiod},
+           given={Ralph},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{12fd02b32b46100ef7002ecbf855b4da}
+      \strng{fullhash}{12fd02b32b46100ef7002ecbf855b4da}
+      \strng{fullhashraw}{12fd02b32b46100ef7002ecbf855b4da}
+      \strng{bibnamehash}{12fd02b32b46100ef7002ecbf855b4da}
+      \strng{authorbibnamehash}{12fd02b32b46100ef7002ecbf855b4da}
+      \strng{authornamehash}{12fd02b32b46100ef7002ecbf855b4da}
+      \strng{authorfullhash}{12fd02b32b46100ef7002ecbf855b4da}
+      \strng{authorfullhashraw}{12fd02b32b46100ef7002ecbf855b4da}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{06}
+      \field{title}{Videostreaming: Energiebedarf und CO2-Emissionen Hintergrundpapier Das Wichtigste in Kürze}
+      \field{year}{2020}
+    \endentry
+    \entry{IEA2025EnergyAI}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=b33b47b3008c8c47f90a77e0c2dd3060}{%
+           family={{International Energy Agency}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IEA}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{fullhash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{fullhashraw}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{bibnamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authorbibnamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authornamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authorfullhash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authorfullhashraw}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Licence: CC BY 4.0}
+      \field{title}{Energy and AI}
+      \field{type}{Report}
+      \field{urlday}{25}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.iea.org/reports/energy-and-ai
+      \endverb
+      \verb{url}
+      \verb https://www.iea.org/reports/energy-and-ai
+      \endverb
+    \endentry
+    \entry{IEA2025GlobalReview}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=b33b47b3008c8c47f90a77e0c2dd3060}{%
+           family={{International Energy Agency}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IEA}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{fullhash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{fullhashraw}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{bibnamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authorbibnamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authornamehash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authorfullhash}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \strng{authorfullhashraw}{b33b47b3008c8c47f90a77e0c2dd3060}
+      \field{extraname}{2}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Global Energy Review 2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.iea.org/reports/global-energy-review-2025
+      \endverb
+      \verb{url}
+      \verb https://www.iea.org/reports/global-energy-review-2025
+      \endverb
+    \endentry
+    \entry{IPCC2023Synthesis}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=676f7b9b8e5bb30500c01e2385e59174}{%
+           family={{IPCC}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5b7ae85b03c5b187088b01846c0a6d48}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=de78d00bb2937ab040c7e2899b33d582}{%
+           family={Romero},
+           familyi={R\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Geneva, Switzerland}%
+      }
+      \list{publisher}{1}{%
+        {IPCC}%
+      }
+      \strng{namehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{fullhash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{fullhashraw}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{bibnamehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{authorbibnamehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{authornamehash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{authorfullhash}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{authorfullhashraw}{676f7b9b8e5bb30500c01e2385e59174}
+      \strng{editorbibnamehash}{18fd5c9e265c64c97ab552ef733b2ad9}
+      \strng{editornamehash}{18fd5c9e265c64c97ab552ef733b2ad9}
+      \strng{editorfullhash}{18fd5c9e265c64c97ab552ef733b2ad9}
+      \strng{editorfullhashraw}{18fd5c9e265c64c97ab552ef733b2ad9}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change}
+      \field{note}{Sixth Assessment Report}
+      \field{title}{Sections}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.59327/IPCC/AR6-9789291691647
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ipcc.ch/report/ar6/syr/
+      \endverb
+      \verb{url}
+      \verb https://www.ipcc.ch/report/ar6/syr/
+      \endverb
+    \endentry
+    \entry{Organs}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=062227064112b1d2f766429b8d08086a}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=fa4ad70d293ee67ea091f10e548b781d}{%
+           family={Goldstein},
+           familyi={G\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{242b0b888e8de614a6620239dcf1f722}
+      \strng{fullhash}{242b0b888e8de614a6620239dcf1f722}
+      \strng{fullhashraw}{242b0b888e8de614a6620239dcf1f722}
+      \strng{bibnamehash}{242b0b888e8de614a6620239dcf1f722}
+      \strng{authorbibnamehash}{242b0b888e8de614a6620239dcf1f722}
+      \strng{authornamehash}{242b0b888e8de614a6620239dcf1f722}
+      \strng{authorfullhash}{242b0b888e8de614a6620239dcf1f722}
+      \strng{authorfullhashraw}{242b0b888e8de614a6620239dcf1f722}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Science (New York, N.Y.)}
+      \field{month}{12}
+      \field{title}{Medicine. Do defaults save lives?}
+      \field{volume}{302}
+      \field{year}{2003}
+      \field{pages}{1338\bibrangedash 9}
+      \range{pages}{2}
+      \verb{doi}
+      \verb 10.1126/science.1091721
+      \endverb
+    \endentry
+    \entry{Kiourtis}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{hash=e35a88bea7b7c51d8b7e92734233aca5}{%
+           family={Kiourtis},
+           familyi={K\bibinitperiod},
+           given={Athanasios},
+           giveni={A\bibinitperiod}}}%
+        {{hash=79ad4a143059c121b90cb9bd18261d0a}{%
+           family={Mavrogiorgou},
+           familyi={M\bibinitperiod},
+           given={Argyro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=abe3871d142f9a3d9fcb95ff3e75e15c}{%
+           family={Zafeiropoulos},
+           familyi={Z\bibinitperiod},
+           given={Nikolaos},
+           giveni={N\bibinitperiod}}}%
+        {{hash=48515676ddcdec700e556e7b7fbbb49b}{%
+           family={Mavrogiorgos},
+           familyi={M\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d760ca1360792e8278e2f47c31ee5744}{%
+           family={Karabetian},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=adb94157b40c7a9b2a75fb51cc1a0a56}{%
+           family={Kyriazis},
+           familyi={K\bibinitperiod},
+           given={Dimosthenis},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d09878a3fbbcfbb0e1a8f26c84811b2}
+      \strng{fullhash}{0ea2e418f69457852d3b334521e79579}
+      \strng{fullhashraw}{0ea2e418f69457852d3b334521e79579}
+      \strng{bibnamehash}{4d09878a3fbbcfbb0e1a8f26c84811b2}
+      \strng{authorbibnamehash}{4d09878a3fbbcfbb0e1a8f26c84811b2}
+      \strng{authornamehash}{4d09878a3fbbcfbb0e1a8f26c84811b2}
+      \strng{authorfullhash}{0ea2e418f69457852d3b334521e79579}
+      \strng{authorfullhashraw}{0ea2e418f69457852d3b334521e79579}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2024 9th International Conference on Smart and Sustainable Technologies (SpliTech)}
+      \field{title}{UI/UX Sustainable Design: Best Practices for Applications CO2 Emissions Reduction}
+      \field{year}{2024}
+      \field{pages}{01\bibrangedash 06}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.23919/SpliTech61897.2024.10612495
+      \endverb
+      \keyw{Temperature distribution;Sea measurements;Carbon dioxide;User interfaces;User experience;Information and communication technology;Stakeholders;sustainability;UI/UX;green design;CO2 emissions;carbon footprint;web design}
+    \endentry
+    \entry{jev}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=99e76cfbcf273c6493ef4ebf46d4a452}{%
+           family={Luccioni},
+           familyi={L\bibinitperiod},
+           given={Alexandra\bibnamedelima Sasha},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=d3bf550429e9ba5e3e93b995e9b40d85}{%
+           family={Strubell},
+           familyi={S\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod}}}%
+        {{hash=04ddd15bdbd9d7c4572af614218b9b79}{%
+           family={Crawford},
+           familyi={C\bibinitperiod},
+           given={Kate},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{b0e71babe445717fafc12ee12330a172}
+      \strng{fullhash}{b0e71babe445717fafc12ee12330a172}
+      \strng{fullhashraw}{b0e71babe445717fafc12ee12330a172}
+      \strng{bibnamehash}{b0e71babe445717fafc12ee12330a172}
+      \strng{authorbibnamehash}{b0e71babe445717fafc12ee12330a172}
+      \strng{authornamehash}{b0e71babe445717fafc12ee12330a172}
+      \strng{authorfullhash}{b0e71babe445717fafc12ee12330a172}
+      \strng{authorfullhashraw}{b0e71babe445717fafc12ee12330a172}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As the climate crisis deepens, artificial intelligence (AI) has emerged as a contested force: some champion its potential to advance renewable energy, materials discovery, and large-scale emissions monitoring, while others underscore its growing carbon footprint, water consumption, and material resource demands. Much of this debate has concentrated on direct impacts—energy and water usage in data centers, e-waste from frequent hardware upgrades—without addressing the significant indirect effects. This paper examines how the problem of Jevons’ Paradox applies to AI, whereby efficiency gains may paradoxically spur increased consumption. We argue that understanding these second-order impacts requires an interdisciplinary approach, combining lifecycle assessments with socio-economic analyses. Rebound effects undermine the assumption that improved technical efficiency alone will ensure net reductions in environmental harm. Instead, the trajectory of AI’s impact also hinges on business incentives and market logics, governance and policymaking, and broader social and cultural norms. We contend that a narrow focus on direct emissions misrepresents AI’s true climate footprint, limiting the scope for meaningful interventions. We conclude with recommendations that address rebound effects and challenge the market-driven imperatives fueling uncontrolled AI growth. By broadening the analysis to include both direct and indirect consequences, we aim to inform a more comprehensive, evidence-based dialogue on AI’s role in the climate crisis.}
+      \field{booktitle}{Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency}
+      \field{isbn}{9798400714825}
+      \field{series}{FAccT '25}
+      \field{title}{From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate}
+      \field{year}{2025}
+      \field{pages}{76\bibrangedash 88}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1145/3715275.3732007
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3715275.3732007
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3715275.3732007
+      \endverb
+      \keyw{Artificial intelligence,Environmental Impacts,Lifecycle Assessment,Rebound Effects,Sustainability}
+    \endentry
+    \entry{Roffarello2022DarkPatterns}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{hash=cc081477f0dbe2fdd97e7239a74babc0}{%
+           family={Monge\bibnamedelima Roffarello},
+           familyi={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d49f983703f927557c3e7c681495d606}{%
+           family={De\bibnamedelima Russis},
+           familyi={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Luigi},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{357bc7e04b3c236058211e1e3567ad62}
+      \strng{fullhash}{357bc7e04b3c236058211e1e3567ad62}
+      \strng{fullhashraw}{357bc7e04b3c236058211e1e3567ad62}
+      \strng{bibnamehash}{357bc7e04b3c236058211e1e3567ad62}
+      \strng{authorbibnamehash}{357bc7e04b3c236058211e1e3567ad62}
+      \strng{authornamehash}{357bc7e04b3c236058211e1e3567ad62}
+      \strng{authorfullhash}{357bc7e04b3c236058211e1e3567ad62}
+      \strng{authorfullhashraw}{357bc7e04b3c236058211e1e3567ad62}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI EA '22)}
+      \field{title}{Towards Understanding the Dark Patterns That Steal Our Attention}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1145/3491101.3519829
+      \endverb
+    \endentry
+    \entry{Netflix2025Q4}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=9fd8d960cd9a0698a9ecd7ab6b84221b}{%
+           family={{Netflix, Inc.}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Netflix, Inc.}%
+      }
+      \list{location}{1}{%
+        {Los Gatos, CA}%
+      }
+      \strng{namehash}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \strng{fullhash}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \strng{fullhashraw}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \strng{bibnamehash}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \strng{authorbibnamehash}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \strng{authornamehash}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \strng{authorfullhash}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \strng{authorfullhashraw}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{20}
+      \field{month}{1}
+      \field{title}{Fourth Quarter 2025 Shareholder Letter}
+      \field{type}{Shareholder Letter}
+      \field{urlday}{25}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ir.netflix.net/investor-news-and-events/investor-events/event-details/2026/Netflix-Fourth-Quarter-2025-Earnings-Interview-2026-ILhOSSH43f/default.aspx
+      \endverb
+      \verb{url}
+      \verb https://ir.netflix.net/investor-news-and-events/investor-events/event-details/2026/Netflix-Fourth-Quarter-2025-Earnings-Interview-2026-ILhOSSH43f/default.aspx
+      \endverb
+    \endentry
+    \entry{Netflix2025H1}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=9fd8d960cd9a0698a9ecd7ab6b84221b}{%
+           family={{Netflix, Inc.}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \strng{fullhash}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \strng{fullhashraw}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \strng{bibnamehash}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \strng{authorbibnamehash}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \strng{authornamehash}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \strng{authorfullhash}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \strng{authorfullhashraw}{9fd8d960cd9a0698a9ecd7ab6b84221b}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Retrieved January 2026}
+      \field{title}{What We Watched the First Half of 2025}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://about.netflix.com/en/news/what-we-watched-the-first-half-of-2025
+      \endverb
+      \verb{url}
+      \verb https://about.netflix.com/en/news/what-we-watched-the-first-half-of-2025
+      \endverb
+    \endentry
+    \entry{MIT}{online}{}{}
+      \name{author}{2}{}{%
+        {{hash=260766a80f9d0537dd7cdaf54c2fd729}{%
+           family={O'Donnell},
+           familyi={O\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e6c9b9b4ee9e1f0b02d36d05233f2fad}{%
+           family={Crownheart},
+           familyi={C\bibinitperiod},
+           given={Casey},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {MIT Technology Review}%
+      }
+      \strng{namehash}{b182a9a7b118fceb2ebca6009000a692}
+      \strng{fullhash}{b182a9a7b118fceb2ebca6009000a692}
+      \strng{fullhashraw}{b182a9a7b118fceb2ebca6009000a692}
+      \strng{bibnamehash}{b182a9a7b118fceb2ebca6009000a692}
+      \strng{authorbibnamehash}{b182a9a7b118fceb2ebca6009000a692}
+      \strng{authornamehash}{b182a9a7b118fceb2ebca6009000a692}
+      \strng{authorfullhash}{b182a9a7b118fceb2ebca6009000a692}
+      \strng{authorfullhashraw}{b182a9a7b118fceb2ebca6009000a692}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{5}
+      \field{title}{We did the math on AI’s energy footprint. Here’s the story you haven’t heard.}
+      \field{urlday}{25}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/
+      \endverb
+      \verb{url}
+      \verb https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/
+      \endverb
+    \endentry
+    \entry{Ripple2025StateClimate}{article}{}{}
+      \name{author}{13}{}{%
+        {{hash=01bfc8cde61322f79fc0c19414abc57b}{%
+           family={Ripple},
+           familyi={R\bibinitperiod},
+           given={William\bibnamedelima J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=6b599bc2dda1ec88d375a83a3f9de1ad}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod}}}%
+        {{hash=35c9dac5b8998ffa8f6f24fe4d9fffbf}{%
+           family={Mann},
+           familyi={M\bibinitperiod},
+           given={Michael\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=766784023e0685b7d79290821742de70}{%
+           family={Rockström},
+           familyi={R\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e20343d6e5d5cc1da5fb330af4de4013}{%
+           family={Gregg},
+           familyi={G\bibinitperiod},
+           given={Jillian\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=a4814e6bba57339b3dd8391e2e32ff4f}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Chi},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d7f07b9e514989023e6f3b4934d9b19d}{%
+           family={Wunderling},
+           familyi={W\bibinitperiod},
+           given={Nico},
+           giveni={N\bibinitperiod}}}%
+        {{hash=11b8b9f8eccb3be9545ca963f64e6e71}{%
+           family={Perkins-Kirkpatrick},
+           familyi={P\bibinithyphendelim K\bibinitperiod},
+           given={Sarah\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=09c1a03c027a20fbd533af0dc9f23dc9}{%
+           family={Schaeffer},
+           familyi={S\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ba400ee82acf0612ae2f2e71372b0f7b}{%
+           family={Broadgate},
+           familyi={B\bibinitperiod},
+           given={Wendy\bibnamedelima J.},
+           giveni={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=62aba6143605994f3dba5314446c7868}{%
+           family={Newsome},
+           familyi={N\bibinitperiod},
+           given={Thomas\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=96145492077eb7bb7f752371d161e93d}{%
+           family={Shuckburgh},
+           familyi={S\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod}}}%
+        {{hash=20de91c8c029d1317c4bf5899f6e558c}{%
+           family={Gleick},
+           familyi={G\bibinitperiod},
+           given={Peter\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea1cf9809a6ad7f70c874f9e57ac86dc}
+      \strng{fullhash}{431656a5bdb6ba2bfc006823d76d0ba8}
+      \strng{fullhashraw}{431656a5bdb6ba2bfc006823d76d0ba8}
+      \strng{bibnamehash}{ea1cf9809a6ad7f70c874f9e57ac86dc}
+      \strng{authorbibnamehash}{ea1cf9809a6ad7f70c874f9e57ac86dc}
+      \strng{authornamehash}{ea1cf9809a6ad7f70c874f9e57ac86dc}
+      \strng{authorfullhash}{431656a5bdb6ba2bfc006823d76d0ba8}
+      \strng{authorfullhashraw}{431656a5bdb6ba2bfc006823d76d0ba8}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{BioScience}
+      \field{month}{12}
+      \field{note}{Advance access publication date: 29 October 2025}
+      \field{number}{12}
+      \field{title}{The 2025 state of the climate report: a planet on the brink}
+      \field{volume}{75}
+      \field{year}{2025}
+      \field{pages}{1016\bibrangedash 1027}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1093/biosci/biaf149
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/biosci/biaf149
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/biosci/biaf149
+      \endverb
+    \endentry
+    \entry{owid-co2-emissions}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a6d904a648976069036f5eddb4ad0151}{%
+           family={Ritchie},
+           familyi={R\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod}}}%
+        {{hash=c0e5ce1b546c571edc443f6a4f166170}{%
+           family={Roser},
+           familyi={R\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ec70e8735b90fe70ff5f815fa23d439}
+      \strng{fullhash}{1ec70e8735b90fe70ff5f815fa23d439}
+      \strng{fullhashraw}{1ec70e8735b90fe70ff5f815fa23d439}
+      \strng{bibnamehash}{1ec70e8735b90fe70ff5f815fa23d439}
+      \strng{authorbibnamehash}{1ec70e8735b90fe70ff5f815fa23d439}
+      \strng{authornamehash}{1ec70e8735b90fe70ff5f815fa23d439}
+      \strng{authorfullhash}{1ec70e8735b90fe70ff5f815fa23d439}
+      \strng{authorfullhashraw}{1ec70e8735b90fe70ff5f815fa23d439}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Our World in Data}
+      \field{note}{https://archive.ourworldindata.org/20260119-070102/co2-emissions.html}
+      \field{title}{CO₂ emissions}
+      \field{year}{2020}
+    \endentry
+    \entry{Spool2011Settings}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=b746e4cc2969c67284bb6cd3d6314aba}{%
+           family={Spool},
+           familyi={S\bibinitperiod},
+           given={Jared\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {UIE / Brainsparks}%
+      }
+      \strng{namehash}{b746e4cc2969c67284bb6cd3d6314aba}
+      \strng{fullhash}{b746e4cc2969c67284bb6cd3d6314aba}
+      \strng{fullhashraw}{b746e4cc2969c67284bb6cd3d6314aba}
+      \strng{bibnamehash}{b746e4cc2969c67284bb6cd3d6314aba}
+      \strng{authorbibnamehash}{b746e4cc2969c67284bb6cd3d6314aba}
+      \strng{authornamehash}{b746e4cc2969c67284bb6cd3d6314aba}
+      \strng{authorfullhash}{b746e4cc2969c67284bb6cd3d6314aba}
+      \strng{authorfullhashraw}{b746e4cc2969c67284bb6cd3d6314aba}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{note}{Foundational study on user behavior regarding default settings.}
+      \field{title}{Do users change their settings?}
+      \field{urlday}{25}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://archive.uie.com/brainsparks/2011/09/14/do-users-change-their-settings/
+      \endverb
+      \verb{url}
+      \verb https://archive.uie.com/brainsparks/2011/09/14/do-users-change-their-settings/
+      \endverb
+    \endentry
+    \entry{Transports}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=00f275007e2e2beffca273c07c72cb8d}{%
+           family={Thommes},
+           familyi={T\bibinitperiod},
+           given={Kirsten},
+           giveni={K\bibinitperiod}}}%
+        {{hash=41b17c990f90ef845ac5d893c95c7a9e}{%
+           family={Mehic},
+           familyi={M\bibinitperiod},
+           given={Miro},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a21ba647d533cb790f123b6092341f58}
+      \strng{fullhash}{a21ba647d533cb790f123b6092341f58}
+      \strng{fullhashraw}{a21ba647d533cb790f123b6092341f58}
+      \strng{bibnamehash}{a21ba647d533cb790f123b6092341f58}
+      \strng{authorbibnamehash}{a21ba647d533cb790f123b6092341f58}
+      \strng{authornamehash}{a21ba647d533cb790f123b6092341f58}
+      \strng{authorfullhash}{a21ba647d533cb790f123b6092341f58}
+      \strng{authorfullhashraw}{a21ba647d533cb790f123b6092341f58}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transportation Research Part A Policy and Practice}
+      \field{month}{02}
+      \field{title}{The persistence of default effects: Evidence from CO2 offsetting in cargo transportation}
+      \field{volume}{204}
+      \field{year}{2026}
+      \verb{doi}
+      \verb 10.1016/j.tra.2025.104838
+      \endverb
+    \endentry
+    \entry{UNU2026WaterBankruptcy}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=d51c42674b47577b42848c9e3e3f359c}{%
+           family={{UNU-INWEH}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {United Nations University Institute for Water, Environment}%
+        {Health}%
+      }
+      \list{location}{1}{%
+        {Richmond Hill, Ontario}%
+      }
+      \strng{namehash}{d51c42674b47577b42848c9e3e3f359c}
+      \strng{fullhash}{d51c42674b47577b42848c9e3e3f359c}
+      \strng{fullhashraw}{d51c42674b47577b42848c9e3e3f359c}
+      \strng{bibnamehash}{d51c42674b47577b42848c9e3e3f359c}
+      \strng{authorbibnamehash}{d51c42674b47577b42848c9e3e3f359c}
+      \strng{authornamehash}{d51c42674b47577b42848c9e3e3f359c}
+      \strng{authorfullhash}{d51c42674b47577b42848c9e3e3f359c}
+      \strng{authorfullhashraw}{d51c42674b47577b42848c9e3e3f359c}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{The UN's Think Tank on Water}
+      \field{title}{Global Water Bankruptcy: Living Beyond Our Hydrological Means in the Post-Crisis Era}
+      \field{type}{Report}
+      \field{urlday}{25}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.53328/INR26KAM001
+      \endverb
+      \verb{urlraw}
+      \verb https://unu.edu/inweh/collection/global-water-bankruptcy
+      \endverb
+      \verb{url}
+      \verb https://unu.edu/inweh/collection/global-water-bankruptcy
+      \endverb
+    \endentry
+    \entry{Vacanti2024}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{hash=a1ec6139debec0ded92a6891d2edb4ac}{%
+           family={Vacanti},
+           familyi={V\bibinitperiod},
+           given={Annapaola},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bd16c6d5440faa35666c15ffeea7ac42}{%
+           family={Gambardella},
+           familyi={G\bibinitperiod},
+           given={Claudio},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature Switzerland}%
+      }
+      \strng{namehash}{a1ec6139debec0ded92a6891d2edb4ac}
+      \strng{fullhash}{a1ec6139debec0ded92a6891d2edb4ac}
+      \strng{fullhashraw}{a1ec6139debec0ded92a6891d2edb4ac}
+      \strng{bibnamehash}{a1ec6139debec0ded92a6891d2edb4ac}
+      \strng{authorbibnamehash}{a1ec6139debec0ded92a6891d2edb4ac}
+      \strng{authornamehash}{a1ec6139debec0ded92a6891d2edb4ac}
+      \strng{authorfullhash}{a1ec6139debec0ded92a6891d2edb4ac}
+      \strng{authorfullhashraw}{a1ec6139debec0ded92a6891d2edb4ac}
+      \strng{editorbibnamehash}{bd16c6d5440faa35666c15ffeea7ac42}
+      \strng{editornamehash}{bd16c6d5440faa35666c15ffeea7ac42}
+      \strng{editorfullhash}{bd16c6d5440faa35666c15ffeea7ac42}
+      \strng{editorfullhashraw}{bd16c6d5440faa35666c15ffeea7ac42}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Despite the common misconception that digital technology tends to ``dematerialize'' human activities, the environmental impact of the Internet is no longer negligible. As data traffic keeps growing at alarming speed, it is estimated that the entire network will consume 20{\%} of global electricity production by 2025. Such energy consumption is a direct consequence of the great amount of time that we---and our smart devices---spend online. Although the cloud computing model allows to produce energy-efficient devices, data centers tend to consume more and more energy. At the same time, digital content is becoming heavier, mostly due to the growing importance of video streaming and the complexity of contemporary interfaces. Heavier websites and continuous content updates impact the energy usage of the network infrastructure and shorten the lifespan of the expensive devices that we use to access the Internet. Such a scenario requires web designers to acknowledge the environmental issue as a main driver in their efforts to optimize User Experience. Among the parameters that define the quality of a digital artifact, sustainability must play a central role, as complex, ultra-fast, and highly personalized interfaces may satisfy the user but represent a liability for our ecosystem's survival. The paper proposes an analysis of energy-efficient websites, that clarify how designers can make environmentally conscious choices. Ultimately, methodological tools are offered to recognize, evaluate, and decrease the impact of digital interfaces on the Internet carbon footprint.}
+      \field{booktitle}{For Nature/With Nature: New Sustainable Design Scenarios}
+      \field{isbn}{978-3-031-53122-4}
+      \field{title}{Environmentally Conscious Digital Interfaces: A Mindful Approach to UX}
+      \field{year}{2024}
+      \field{pages}{865\bibrangedash 876}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/978-3-031-53122-4_51
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-031-53122-4_51
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-031-53122-4_51
+      \endverb
+    \endentry
+    \entry{nudge}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=c30945513438f26505aefd05303aac47}{%
+           family={Weinmann},
+           familyi={W\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=06654b4813ca1a8f83f0e51f43b7b107}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=12c8a93a870d1bc7a6de117db0e7f71d}{%
+           family={Brocke},
+           familyi={B\bibinitperiod},
+           given={Jan\bibnamedelima vom},
+           giveni={J\bibinitperiod\bibinitdelim v\bibinitperiod}}}%
+      }
+      \strng{namehash}{cb5e753487316c57c875ea4858304533}
+      \strng{fullhash}{cb5e753487316c57c875ea4858304533}
+      \strng{fullhashraw}{cb5e753487316c57c875ea4858304533}
+      \strng{bibnamehash}{cb5e753487316c57c875ea4858304533}
+      \strng{authorbibnamehash}{cb5e753487316c57c875ea4858304533}
+      \strng{authornamehash}{cb5e753487316c57c875ea4858304533}
+      \strng{authorfullhash}{cb5e753487316c57c875ea4858304533}
+      \strng{authorfullhashraw}{cb5e753487316c57c875ea4858304533}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Business \& Information Systems Engineering}
+      \field{month}{12}
+      \field{title}{Digital Nudging}
+      \field{volume}{58}
+      \field{year}{2016}
+      \field{pages}{433\bibrangedash 436}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1007/s12599-016-0453-1
+      \endverb
+    \endentry
+    \entry{WMO2026WarmestYear}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=a0976dd5c26a3096c852635be8d95c80}{%
+           family={{World Meteorological Organization}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {WMO}%
+      }
+      \strng{namehash}{a0976dd5c26a3096c852635be8d95c80}
+      \strng{fullhash}{a0976dd5c26a3096c852635be8d95c80}
+      \strng{fullhashraw}{a0976dd5c26a3096c852635be8d95c80}
+      \strng{bibnamehash}{a0976dd5c26a3096c852635be8d95c80}
+      \strng{authorbibnamehash}{a0976dd5c26a3096c852635be8d95c80}
+      \strng{authornamehash}{a0976dd5c26a3096c852635be8d95c80}
+      \strng{authorfullhash}{a0976dd5c26a3096c852635be8d95c80}
+      \strng{authorfullhashraw}{a0976dd5c26a3096c852635be8d95c80}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{note}{Media Centre Press Release}
+      \field{title}{WMO confirms 2025 was one of warmest years on record}
+      \field{urlday}{25}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://wmo.int/news/media-centre/wmo-confirms-2025-was-one-of-warmest-years-record
+      \endverb
+      \verb{url}
+      \verb https://wmo.int/news/media-centre/wmo-confirms-2025-was-one-of-warmest-years-record
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

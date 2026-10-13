@@ -1,0 +1,191 @@
+\documentclass[captions=tableheading, listof=leveldown, 12pt, parskip=half]{scrartcl}
+
+%********************************************************************************************
+% Details zur Arbeit
+%********************************************************************************************
+\newcommand{\titel}{UX and Climate Responsibility} % Updated to match your cover
+\newcommand{\artderarbeit}{Seminar Paper}
+\newcommand{\autor}{Lukas Kolb}
+\newcommand{\studiengang}{User Experience Design (M. Sc.)}
+\newcommand{\matrikelnr}{00071935}
+\newcommand{\erstgutachter}{Prof.\,Dr.~Laura Crompton}
+\newcommand{\abgabe}{25.01.2026}
+\newcommand{\keywords}{User Experience, Sustainability, Climate Ethics, AI}
+
+%********************************************************************************************
+% Packages
+%********************************************************************************************
+\usepackage[a4paper,left=30mm,right=20mm,top=25mm,bottom=25mm,head=25pt]{geometry}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{newunicodechar}
+\newunicodechar{₂}{$_2$}
+
+\usepackage{csquotes}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{wrapfig}
+\usepackage{xcolor}
+\usepackage{verbatim}
+\usepackage{upgreek}
+\usepackage{subcaption}
+\usepackage{caption}
+\usepackage{nicefrac}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{wasysym}
+\usepackage{pdfpages}
+\usepackage{romannum}
+\usepackage{float}
+\usepackage{ragged2e}
+\usepackage{setspace}
+\usepackage[singlespacing]{scrlayer-scrpage}
+
+% Bibliography Setup
+\usepackage[backend=biber, style=numeric]{biblatex}
+\addbibresource{ref.bib}
+
+% Acronyms and Links
+\usepackage[nohyperlinks]{acronym}
+\usepackage[
+    bookmarks=true,
+    pdftitle={\titel},
+    pdfauthor={\autor},
+    pdfsubject={\titel},
+    pdfkeywords={\keywords},
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=black,
+    citecolor=black,
+    hidelinks % Removes the boxes around links
+]{hyperref}
+
+%********************************************************************************************
+% Formatting and Styles
+%********************************************************************************************
+\makeatletter
+\newcommand{\MSonehalfspacing}{%
+  \setstretch{1.433}% Optimized for 12pt
+}
+\makeatother
+
+\MSonehalfspacing
+\justifying
+
+\newcommand{\sectionstyle}{\fontsize{20.66}{24}\selectfont\bfseries\rmfamily}
+\newcommand{\subsectionstyle}{\fontsize{14.35}{18}\selectfont\bfseries\rmfamily}
+\newcommand{\subsubsectionstyle}{\fontsize{11.96}{14}\selectfont\bfseries\rmfamily}
+\setkomafont{section}{\sectionstyle}
+\setkomafont{subsection}{\subsectionstyle}
+\setkomafont{subsubsection}{\subsubsectionstyle}
+
+\setlength\abovecaptionskip{10pt}
+\setlength{\tabcolsep}{18pt}
+\renewcommand{\arraystretch}{1.5}
+
+%********************************************************************************************
+\begin{document}
+%********************************************************************************************
+
+% Deckblatt
+\pagenumbering{Roman}
+\thispagestyle{empty}
+
+\begin{titlepage}
+\newgeometry{left=25mm, right=25mm, top=30mm, bottom=20mm}
+  \begin{center}
+    \includegraphics[width=14 cm]{Images/thi_logo_wb_RGB_01.png} \\
+    \vspace{0.5cm}
+    \Large -- \studiengang{} --
+  \end{center}
+
+  \vfill
+
+  \begin{center}
+    \huge \textbf{\titel}
+  \end{center}
+
+  \vfill
+
+  \begin{center}
+    \Large \artderarbeit{} for the course\\
+    \vspace{0.3cm}
+    \Large \textit{Critical UX Reflections}
+  \end{center}
+
+  \vfill
+
+  \begin{center}
+    \Large submitted by\\
+    \vspace{0.3cm}
+    \Large \textbf{\autor}\\
+    Matriculation Number: \matrikelnr\\
+    \abgabe
+  \end{center}
+
+  \vfill
+
+  \begin{center}
+    \begin{tabular}{ll}
+       Lecturer: & \erstgutachter \\
+    \end{tabular}
+  \end{center}
+\end{titlepage}
+\restoregeometry
+
+% Headers
+\pagestyle{scrheadings}
+\ihead{\includegraphics[height=20.5pt]{Images/thi_logo_wb_RGB_01.png}}
+\KOMAoptions{headsepline=0.2pt:1.0\textwidth}
+
+% AI Statement
+\newpage
+\addcontentsline{toc}{section}{Statement about AI}
+\ohead{Statement about AI}
+\section*{Statement about AI}
+AI was used for: Literature search, scope refinement, grammar checking, and structural guidance.
+
+% Table of Contents
+\newpage
+\setcounter{page}{3}
+\ohead{Contents}
+\tableofcontents
+
+% Main Content
+\newpage
+\pagenumbering{arabic}
+
+\section{Introduction}
+\ohead{Introduction}
+\input{chapter/introduction}
+
+\section{UX and the Environment}
+\ohead{UX and the Environment}
+\input{chapter/UXEnvironment}
+
+\section{Ethical Analysis}
+\ohead{Ethical Analysis}
+\input{chapter/EthicalAnalysis}
+
+\section{The Designers' Dilemma}
+\ohead{The Designers' Dilemma}
+\input{chapter/Dilemma}
+
+\section{What Should Be Done?}
+\ohead{What Should Be Done?}
+\input{chapter/WhatCan}
+
+\section{Conclusion}
+\ohead{Conclusion}
+\input{chapter/Conclusion}
+
+% Bibliography
+\newpage
+\pagenumbering{Roman}
+\setcounter{page}{5} % Set this to follow your previous Roman count
+\ohead{References}
+\printbibliography[heading=bibintoc, title={References}]
+
+\end{document}

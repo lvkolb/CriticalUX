@@ -1,0 +1,41 @@
+This section looks at climate justice and autonomy.
+
+\subsection{Climate Justice}
+In the context of digital and climate ethics, Distributive Justice plays a big part and concerns the "just distribution of burdens and benefits" associated with resource consumption and mitigation. It addresses the "Burden-Sharing Question": who has the moral responsibility to pay for the environmental costs of digital infrastructure? There is the Principles of Liability: Distributive justice suggests that "polluters" should bear costs in proportion to their emissions. Furthermore, the "Beneficiary Pays Principle" argues that agents who have benefited from emissions-generating activities (such as tech companies and affluent users) have a duty to shoulder the resulting environmental burdens. Also the Global Commons is an important framework. This framework views the atmosphere and natural resources as a "global common" that should be distributed equally or based on subsistence needs rather than luxury consumption \cite{sep-justice-climate}.
+
+
+\par Current UX practices violate these principles. When designers default to 4K streaming or AI chatbots, they prioritize convenience for their users with high-speed internet and modern devices. The energy required to deliver this convenience is disproportionately generated in regions with carbon-intensive grids. Data centers currently happen to be clustered in places that have dirtier grids on average resulting in electricity that is 48\% more carbon-intensive than the national average. For example Virginia  hosts more data centers than any U.S. state \cite{MIT}. These communities breathe the emissions. Additionally the resulting climate impacts, flooding, drought, displacement, disproportionately affect the Global South, which contributed least to cumulative emissions yet faces the most severe consequences \cite{ColumbiaClimate2025Index, owid-co2-emissions}. Lastly, climate change is a problem that is predicted into the future impacting generations that may yet have no possibilities in influencing the course. Northern users' convenience is traded for Southern climate risk, and local communities near data centers bear environmental costs for services they may never use. This constitutes distributive injustice. Those who benefit (convenience for privileged users) are not those who bear costs (climate-vulnerable populations, data center communities, future generations).
+
+\par The distributive injustice of the digital sector is compounded by the normative dilemma of risk and uncertainty. As established in climate justice theory, the global "greenhouse gas budget" is not a fixed number but a variable dictated by our level of risk-aversion: choosing a 66\% probability of meeting the 1.5°C target halves the permissible emissions compared to a 33\% probability. According to the Precautionary Principle, when there is a threat of "massive loss" and the "mechanisms" of harm are understood, urgency is required regardless of precise prior probabilities. However, the industry’s refusal to provide data prevents the fulfillment of the "knowledge condition" necessary to trigger this principle \cite{sep-justice-climate}.
+
+\par This leads directly to the "Black Box" problem of AI energy consumption. Because leading AI providers don’t disclose exact consumption numbers, they deny the public the knowledge needed to identify these mechanisms. We are trapped in a state of forced uncertainty, where the "expected value" of our digital choices cannot be calculated, and the "massive loss" remains hidden behind a veil of corporate secrecy. This information asymmetry means that:
+\begin{itemize}
+\item Users cannot make informed choices about which services to use or how to use them
+\item Designers cannot make informed choices about which features to implement
+\item Regulators cannot set appropriate standards without accurate baselines
+\item Affected communities cannot contest decisions when impacts remain invisible
+\end{itemize}
+Especially those with power (tech companies) control both the infrastructure and information about its impacts. Those without power (users, designers, affected communities, regulators) are denied knowledge necessary to challenge the system. This is distributive injustice on a knowledge level: by hiding environmental costs, companies prevent accountability mechanisms that might redistribute burdens more fairly.
+
+\subsection{Autonomy}
+At its core, Autonomy is the ability to act in a self-determined way. Being able to govern one's life according to one's own reasons and motives rather than manipulative external influences. In the context of agency, an autonomous individual is one who initiates their own actions; any exercise of power over that individual is illegitimate unless they authorize it themselves.
+In UX design, autonomy is undermined by mechanisms that "make a mockery of our authority to determine our own actions" \cite{sep-personal-autonomy}.
+
+\par Dark patterns such as infinite scroll exploit psychological vulnerabilities like to bypass a user's reflective judgment and steal their attention. Similarly, autoplay can increase data transfer without the user ever making an authoritative judgment to consume that content. In these cases, the user's "authorization" is a mere formality; the real power to consume resources lies with an external "choice architecture" designed for engagement, not sustainability. Consider the typical streaming interaction: A user opens Netflix, sees an interface with 4K autoplay enabled by default. As shown prior many users don't change default settings.
+
+This creates an autonomy problem regardless of the user's underlying preferences.
+Some users might genuinely prefer 4K quality and would choose it even if fully
+informed about energy costs. For these users, the current default happens to
+align with their values. But other users prioritize environmental impact and
+would choose HD if aware of the difference. For these users, the default
+substitutes the designer's priorities for their own.
+
+The autonomy violation is not that 4K is offered, but that the choice is made
+invisible through dark patterns (autoplay), information gaps (no disclosure of
+energy costs), and friction (settings buried in menus). Users cannot exercise
+authentic choice when they lack both information and accessible alternatives.
+
+\par These ethical frameworks establish that current UX practices violate principles
+of distributive justice and autonomy. However, this raises a practical question:
+why do designers make these choices? Section 4 examines the structural constraints
+that create tension between ethical obligations and professional viability.
